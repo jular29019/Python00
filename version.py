@@ -1,2 +1,2 @@
 import sys
-print ("Estoy usando Python " + sys.version + "\n")
+print ("Estoy usando Python: " + sys.version + "\n")
